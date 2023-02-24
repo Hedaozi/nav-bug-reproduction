@@ -1,0 +1,40 @@
+{
+  "title": "《数据分析与软件应用》考试资料",
+  "parts": [
+    {
+      "name": "Preface",
+      "chapters": [
+        {
+          "id": "",
+          "name": "About"
+        }
+      ]
+    },
+    {
+      "name": "Part I Data Clean",
+      "chapters": [
+        {
+          "id": "process-of-data-clean",
+          "name": "Process of data clean"
+        },
+        {
+          "id": "operations-of-data-clean",
+          "name": "Operations of data clean"
+        }
+      ]
+    },
+    {
+      "name": "Part II Data Description",
+      "chapters": [
+        {
+          "id": "data-distribution",
+          "name": "Data distribution"
+        },
+        {
+          "id": "statistical-graph",
+          "name": "Statistical graph"
+        }
+      ]
+    }
+  ]
+}
